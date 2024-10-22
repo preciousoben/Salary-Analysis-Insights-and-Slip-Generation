@@ -89,7 +89,7 @@ Through **Exploratory Data Analysis (EDA)**, we explore various relationships, i
 
 3. **Run the Python script**:  
    ```bash  
-   python Salary_Insights_Project.py  
+   python Salary and worker analysis and slip generation.py  
    ```  
 
 ---
