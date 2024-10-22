@@ -14,7 +14,7 @@ Through **Exploratory Data Analysis (EDA)**, we explore various relationships, i
   - Data cleaning and preparation  
   - EDA to uncover trends in salary structures  
   - Correlation analysis between compensation variables  
-  - Workflow automation using KNIME  
+  - Workflow automation using KNIME for reproducibility 
   - Payslip generation (Power BI and Python)  
 
 ---
@@ -28,7 +28,7 @@ Through **Exploratory Data Analysis (EDA)**, we explore various relationships, i
    Explore salary insights and generate **interactive payslips** with Power BI [here](https://app.powerbi.com/reportEmbed?reportId=95eb6265-e87d-41be-9876-a74a0b5765f9&autoAuth=true&ctid=23d0348e-2962-4f09-9203-398c135660be).  
 
 3. **Python Script for Payslip Generation**:  
-   The complete Python code, including **printable payslip generation**, can be found in the `Salary_Insights_Project.py` file.  
+   The complete Python code, including **printable payslip generation**, can be found in the `Salary and worker analysis and slip generation.py` file.  
 
 4. **KNIME Workflow**:  
    Access the **KNIME workflow** in this repository to explore automated data processing.  
@@ -67,10 +67,10 @@ Through **Exploratory Data Analysis (EDA)**, we explore various relationships, i
 
 | File/Link                            | Description                                      |
 |--------------------------------------|--------------------------------------------------|
-| `Salary_Insights_Project.py`         | Python script with EDA and payslip generation    |
+| `Salary and worker analysis and slip generation.py`         | Python script with EDA and payslip generation    |
 | [Jupyter Notebook](https://colab.research.google.com/drive/120W5rmAZKVUSCKUArmuSvpsb9OkYjV5j?usp=sharing)                | Viewable notebook on Google Colab                |
 | [Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=95eb6265-e87d-41be-9876-a74a0b5765f9&autoAuth=true&ctid=23d0348e-2962-4f09-9203-398c135660be)              | Interactive dashboard with payslip generation    |
-| `Salary_Automation_Workflow.knwf`    | KNIME workflow for automated data processing     |
+| `Salary_worker_analysis.knwf`    | KNIME workflow for automated data processing     |
 
 ---
 
